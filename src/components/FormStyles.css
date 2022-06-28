@@ -1,0 +1,22 @@
+/** @format */
+
+.login-form {
+    margin-left: 40rem;
+    padding-top: 10rem;
+    max-width: 300px;
+    border: 1px solid red;
+}
+
+.login-form-forgot {
+    border: 1px solid red;
+    float: right;
+}
+
+.login-form-forgot {
+    float: left;
+    border: 1px solid red;
+}
+
+.login-form-button {
+    width: 100%;
+}
